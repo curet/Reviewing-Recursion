@@ -1,7 +1,7 @@
 # Ignore all
 *
 
-#Exeption
+#Exception
 !*.cpp
 !.gitignore
 !README.md
